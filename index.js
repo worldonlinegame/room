@@ -1,3 +1,5 @@
+firebase.firestore();
+
 const taskForm = document.getElementById('task-form');
 
 taskForm.addEventListener('submit', e =>{
