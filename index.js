@@ -1,4 +1,4 @@
-import {firestore} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js"
+import { db } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
 const db = firebase.firestore();
 
 
